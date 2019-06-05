@@ -14,9 +14,12 @@ There is a real-world use-case behind this. My home town (really small one) has 
 Here the basic idea:
 
 * Track the traffic in a city by measuring the activity
-* We will use a Raspberry with the following periphery: Camera module, motion sensor (i.e. connected via ZWave)
-* The following Redis modules will be used: RedisTimeSeries, RedisAI
+* We will use a Raspberry with the following periphery:
+    * Camera module
+    * Motion sensor (i.e. connected via ZWave in order to allow a flexible placement)
+* The following Redis modules will be used:
+    * RedisTimeSeries
+    * RedisAI
 * Visualize the following via Grafana:
    * Recognized vehicles/items
    * Vechilces by class/type
-   
