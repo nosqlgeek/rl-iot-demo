@@ -14,6 +14,7 @@ rm redis-5.0.5.tar.gz
 cd redis-5.0.5
 make
 mkdir bin
+mkdir log
 mv src/redis-server bin/
 mv src/redis-cli bin/
 cd $HOME
@@ -30,5 +31,6 @@ cd src/
 make all
 cd $HOME/opt/timeseries
 mkdir bin
+mkdir log
 mv RedisTimeSeries/src/redistimeseries.so bin/
 cd $HOME
