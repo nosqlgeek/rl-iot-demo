@@ -26,4 +26,4 @@ Here the basic idea:
    
 ## Prototype
 
-
+<img src="https://github.com/nosqlgeek/rl-iot-demo/raw/master/screenshots/IMG_2786.JPG"/>
