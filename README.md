@@ -23,3 +23,7 @@ Here the basic idea:
 * Visualize the following via Grafana:
    * Recognized vehicles/items
    * Vechilces by class/type
+   
+## Prototype
+
+
