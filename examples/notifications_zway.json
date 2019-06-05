@@ -1,0 +1,15 @@
+"data" : {
+      "updateTime" : 1559742317,
+      "notifications" : [
+          {
+            "timestamp" : "2019-06-04T14:08:14.384Z",
+            "id" : 1559657294384,
+            "type" : "device-OnOff"
+            message" : {
+                "l" : "on|off",
+                "dev" : "Fibaro Burglar Alarm ..."
+            }
+          },
+          ...
+      ]
+}
